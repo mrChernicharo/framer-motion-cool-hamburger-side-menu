@@ -1,0 +1,5 @@
+node_modules
+.next/cache/next-babel-loader
+.next/static
+.next/server
+.next/static/webpack
